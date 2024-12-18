@@ -1,0 +1,11 @@
+{
+    "assigned_college_room": "CEIT",
+    "room_number": "23",
+    "scheduled_times": [
+        {
+            "day": "Thursday",
+            "start_time": "7:00",
+            "end_time": "9:00"
+        }
+    ]
+}

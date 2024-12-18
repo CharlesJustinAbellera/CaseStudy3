@@ -1,0 +1,18 @@
+{
+    "assignment_code": "ASSIGNMENT_01",
+    "course_code": "CS01",
+    "assignment_details": {
+        "assignment_code": "ASSIGNMENT_01",
+        "assignment_name": "CASE STUDY",
+        "details": "EYYYYYYYYY",
+        "points": 100,
+        "deadline_date": "2025-01-21",
+        "deadline_time": "11:00"
+    },
+    "assigned_students": [
+        {
+            "student_id": "24-81F5D",
+            "username": "cj"
+        }
+    ]
+}

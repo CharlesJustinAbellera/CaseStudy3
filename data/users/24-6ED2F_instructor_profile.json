@@ -1,0 +1,24 @@
+{
+    "user_id": "24-6ED2F",
+    "username": "ghi",
+    "password": "789",
+    "name": "king",
+    "email": "king",
+    "birthdate": "2021-10-17",
+    "address": "kilada",
+    "gender": "male",
+    "department": "ceit",
+    "specialization": "comsci",
+    "assigned_courses": [
+        {
+            "course_code": "CS01",
+            "course_name": "INTRO TO OOP",
+            "credited_units": 4,
+            "assigned_college_room": "CEIT",
+            "room_number": "23",
+            "day": "Thursday",
+            "start_time": "7:00",
+            "end_time": "9:00"
+        }
+    ]
+}

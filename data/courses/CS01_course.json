@@ -1,0 +1,23 @@
+{
+    "course_code": "CS01",
+    "course_name": "INTRO TO OOP",
+    "credited_units": 4,
+    "assigned_college_room": "CEIT",
+    "room_number": "23",
+    "day": "Thursday",
+    "start_time": "7:00",
+    "end_time": "9:00",
+    "instructor_id": "24-6ED2F",
+    "name": "king",
+    "enrolled_students": [
+        {
+            "student_id": "24-81F5D",
+            "username": "cj",
+            "student_email": "cj",
+            "student_major": "BSCS",
+            "student_year_level": "2nd",
+            "student_semester": "1st",
+            "academic_year": "2023-2024"
+        }
+    ]
+}

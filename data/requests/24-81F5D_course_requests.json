@@ -1,0 +1,19 @@
+{
+    "student_id": "24-81F5D",
+    "name": "cj",
+    "major": "BSCS",
+    "year_level": "2nd",
+    "semester": "1st",
+    "course_requests": [
+        {
+            "course_code": "CS04",
+            "course_name": "ALCOM",
+            "credits": 4
+        },
+        {
+            "course_code": "CS05",
+            "course_name": "Algorithm and Complexity",
+            "credits": 3
+        }
+    ]
+}

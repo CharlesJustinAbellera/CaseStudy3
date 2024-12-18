@@ -1,0 +1,27 @@
+{
+    "user_id": "24-81F5D",
+    "username": "abc",
+    "password": "123",
+    "name": "cj",
+    "email": "cj",
+    "birthdate": "2021-11-10",
+    "address": "kilada",
+    "gender": "male",
+    "major": "BSCS",
+    "year_level": "2nd",
+    "semester": "1st",
+    "academic_year": "2023-2024",
+    "courses": [
+        {
+            "course_code": "CS01",
+            "course_name": "INTRO TO OOP",
+            "credited_units": 4,
+            "college_room": "CEIT",
+            "room_number": "23",
+            "day": "Thursday",
+            "start_time": "7:00",
+            "end_time": "9:00",
+            "instructor_id": "24-6ED2F"
+        }
+    ]
+}
